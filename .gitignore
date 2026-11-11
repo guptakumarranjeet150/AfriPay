@@ -13,8 +13,8 @@ Cargo.lock
 **/*.tsbuildinfo
 
 # Environment files
-**/.env
 **/.env.local
 **/.env.*.local
 !**/.env.example
 **/.DS_Store
+config.bat
